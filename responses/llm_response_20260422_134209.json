@@ -1,0 +1,46 @@
+{
+  "topic": "The Power of Self-Compassion",
+  "topic_telugu": "స్వీయ దయ",
+  "hook": "మీరు మీకు తగిన స్నేహితుడిలా ఉండగలరా?",
+  "body": [
+    {
+      "point_number": 1,
+      "title": "స్వీయ దయ అంటే ఏమిటి?",
+      "script": "మనలోని లోపాలను అంగీకరించి, మనల్ని మనమే ప్రేమించుకోవడం",
+      "psychology_concept": "Self-Compassion"
+    },
+    {
+      "point_number": 2,
+      "title": "స్వీయ దయ యొక్క ప్రయోజనాలు",
+      "script": "ఒత్తిడి, ఆందోళనలను తగ్గించి, మన మానసిక ఆరోగ్యాన్ని మెరుగుపరుస్తుంది",
+      "psychology_concept": "Mindfulness"
+    },
+    {
+      "point_number": 3,
+      "title": "స్వీయ దయను పెంపొందించుకోవడం",
+      "script": "మనల్ని మనమే ప్రేమించుకోవడం, మన లోపాలను అంగీకరించడం, మనకు మద్దతు ఇవ్వడం",
+      "psychology_concept": "Cognitive Behavioral Therapy"
+    }
+  ],
+  "cta": "మీరు మీకు తగిన స్నేహితుడిలా ఉండండి, మీ జీవితాన్ని మెరుగుపరుద్దాం!",
+  "hashtags": [
+    "telugu",
+    "psychology",
+    "selfcompassion",
+    "mindfulness",
+    "cbt"
+  ],
+  "thumbnail_text": "స్వీయ దయ",
+  "img_prompts": [
+    "anime male character, dark spiky hair, South Indian skin tone, purple glowing eyes, black jacket with purple accents, glowing purple brain energy, pointing at viewer, white background, professional anime illustration, YouTube mascot",
+    "anime male character, dark spiky hair, South Indian skin tone, purple glowing eyes, black jacket with purple accents, glowing purple brain energy, thinking pose, white background, professional anime illustration, YouTube mascot",
+    "anime male character, dark spiky hair, South Indian skin tone, purple glowing eyes, black jacket with purple accents, glowing purple brain energy, holding glowing brain, white background, professional anime illustration, YouTube mascot",
+    "anime male character, dark spiky hair, South Indian skin tone, purple glowing eyes, black jacket with purple accents, glowing purple brain energy, reading book, white background, professional anime illustration, YouTube mascot",
+    "anime male character, dark spiky hair, South Indian skin tone, purple glowing eyes, black jacket with purple accents, glowing purple brain energy, arms crossed confidently, white background, professional anime illustration, YouTube mascot",
+    "anime male character, dark spiky hair, South Indian skin tone, purple glowing eyes, black jacket with purple accents, glowing purple brain energy, explaining with hand gestures, white background, professional anime illustration, YouTube mascot",
+    "anime male character, dark spiky hair, South Indian skin tone, purple glowing eyes, black jacket with purple accents, glowing purple brain energy, meditating, white background, professional anime illustration, YouTube mascot",
+    "anime male character, dark spiky hair, South Indian skin tone, purple glowing eyes, black jacket with purple accents, glowing purple brain energy, writing on air, white background, professional anime illustration, YouTube mascot",
+    "anime male character, dark spiky hair, South Indian skin tone, purple glowing eyes, black jacket with purple accents, glowing purple brain energy, surprised expression, white background, professional anime illustration, YouTube mascot",
+    "anime male character, dark spiky hair, South Indian skin tone, purple glowing eyes, black jacket with purple accents, glowing purple brain energy, victorious pose, white background, professional anime illustration, YouTube mascot"
+  ]
+}
